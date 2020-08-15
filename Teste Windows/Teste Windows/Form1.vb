@@ -9,4 +9,5 @@
 
     'alterei pelo git
     'alterei pelo git2
+    'outro teste
 End Class
