@@ -2,6 +2,6 @@
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         MsgBox("TESTE232")
     End Sub
-
+    'alteracao 08/11/2020
     'Bug do millenio
 End Class
