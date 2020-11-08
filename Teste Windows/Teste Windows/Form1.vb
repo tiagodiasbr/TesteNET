@@ -3,5 +3,6 @@
         MsgBox("TESTE232")
     End Sub
     'alteracao 08/11/2020
+    'alteracao 08/11/2020 11:32
     'Bug do millenio
 End Class
